@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.00d374a1.chunk.css",
+    "main.js": "/portfolio/static/js/main.3be4a875.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3be4a875.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0efa55af.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0efa55af.js.map",
+    "static/css/2.40b9b76b.chunk.css": "/portfolio/static/css/2.40b9b76b.chunk.css",
+    "static/js/2.aec6c11b.chunk.js": "/portfolio/static/js/2.aec6c11b.chunk.js",
+    "static/js/2.aec6c11b.chunk.js.map": "/portfolio/static/js/2.aec6c11b.chunk.js.map",
+    "static/js/3.0a611ec0.chunk.js": "/portfolio/static/js/3.0a611ec0.chunk.js",
+    "static/js/3.0a611ec0.chunk.js.map": "/portfolio/static/js/3.0a611ec0.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.40b9b76b.chunk.css.map": "/portfolio/static/css/2.40b9b76b.chunk.css.map",
+    "static/css/main.00d374a1.chunk.css.map": "/portfolio/static/css/main.00d374a1.chunk.css.map",
+    "static/js/2.aec6c11b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.aec6c11b.chunk.js.LICENSE.txt",
+    "static/media/about-image.83a2fe25.jpg": "/portfolio/static/media/about-image.83a2fe25.jpg",
+    "static/media/city-guide-app.e4843bd0.png": "/portfolio/static/media/city-guide-app.e4843bd0.png",
+    "static/media/logo.cba6db05.PNG": "/portfolio/static/media/logo.cba6db05.PNG",
+    "static/media/netflix.5a78c4b9.png": "/portfolio/static/media/netflix.5a78c4b9.png",
+    "static/media/task-manager.7cdcc29e.png": "/portfolio/static/media/task-manager.7cdcc29e.png",
+    "static/media/testimonial-1.c45b7026.jpg": "/portfolio/static/media/testimonial-1.c45b7026.jpg",
+    "static/media/testimonial-2.f96c7d79.jpg": "/portfolio/static/media/testimonial-2.f96c7d79.jpg",
+    "static/media/testimonial-3.8583592c.jpg": "/portfolio/static/media/testimonial-3.8583592c.jpg",
+    "static/media/testimonial-4.f5307f5b.jpg": "/portfolio/static/media/testimonial-4.f5307f5b.jpg",
+    "static/media/testimonial-5.e6222861.jpg": "/portfolio/static/media/testimonial-5.e6222861.jpg",
+    "static/media/App.css": "/portfolio/static/media/wall-and-laptop-background.f9e274f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0efa55af.js",
+    "static/css/2.40b9b76b.chunk.css",
+    "static/js/2.aec6c11b.chunk.js",
+    "static/css/main.00d374a1.chunk.css",
+    "static/js/main.3be4a875.chunk.js"
+  ]
+}
